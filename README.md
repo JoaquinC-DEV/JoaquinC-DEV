@@ -17,5 +17,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="ejs" src="https://img.shields.io/badge/-EJS-A91E50?style=flat-square&logo=ejs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-191919?style=flat-square&logo=Express&logoColor=white"/>
+  <img alt="EJS" src="https://img.shields.io/badge/-EJS-A91E50?style=flat-square&logo=ejs&logoColor=white" />
 </p>
