@@ -3,6 +3,8 @@
   <p>I'm a boy who likes computers and technology. 💻💖</p>
 </ul>
 
+<img src="https://github-readme-stats.vercel.app/api?username=JoaquinC-DEV&show_icons=true&theme=github_dark">
+
 ## Languages:
 <p>
   <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%23EFD81D&height=32" />
